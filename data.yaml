@@ -1,6 +1,12 @@
-train: C:/Users/haric/OneDrive/Desktop/client/safezone/train/images
-val: C:/Users/haric/OneDrive/Desktop/client/safezone/valid/images
-test: C:/Users/haric/OneDrive/Desktop/client/safezone/test/images
+# train: C:/Users/haric/OneDrive/Desktop/client/safezone/train/images
+# val: C:/Users/haric/OneDrive/Desktop/client/safezone/valid/images
+# test: C:/Users/haric/OneDrive/Desktop/client/safezone/test/images
+
+# nc: 10
+# names: ['Hardhat', 'Mask', 'NO-Hardhat', 'NO-Mask', 'NO-Safety Vest', 'Person', 'Safety Cone', 'Safety Vest', 'machinery', 'vehicle']
+train: /kaggle/working/safezone/train/images
+val: /kaggle/working/safezone/valid/images
+test: /kaggle/working/safezone/test/images
 
 nc: 10
 names: ['Hardhat', 'Mask', 'NO-Hardhat', 'NO-Mask', 'NO-Safety Vest', 'Person', 'Safety Cone', 'Safety Vest', 'machinery', 'vehicle']
