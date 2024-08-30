@@ -4,9 +4,9 @@
 
 # nc: 10
 # names: ['Hardhat', 'Mask', 'NO-Hardhat', 'NO-Mask', 'NO-Safety Vest', 'Person', 'Safety Cone', 'Safety Vest', 'machinery', 'vehicle']
-train: /kaggle/working/safezone/train/images
-val: /kaggle/working/safezone/valid/images
-test: /kaggle/working/safezone/test/images
+train: /kaggle/working/worker_safety_detection/train/images
+val: /kaggle/working/worker_safety_detection/valid/images
+test: /kaggle/working/worker_safety_detection/test/images
 
 nc: 10
 names: ['Hardhat', 'Mask', 'NO-Hardhat', 'NO-Mask', 'NO-Safety Vest', 'Person', 'Safety Cone', 'Safety Vest', 'machinery', 'vehicle']
